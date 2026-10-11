@@ -37,7 +37,7 @@ The project is aligned with **United Nations Sustainable Development Goal 3 (Goo
 
 <p align="center">
   <a href="https://diabetes-risk-prediction01.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
   </a>
 </p>
 
