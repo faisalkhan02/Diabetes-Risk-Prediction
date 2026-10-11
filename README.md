@@ -33,6 +33,19 @@ Users enter 17 demographic, lifestyle, and health-related features. The app pass
 
 The project is aligned with **United Nations Sustainable Development Goal 3 (Good Health and Well-being)** as an educational exploration of data-driven health awareness. This alignment does not imply clinical validation.
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://diabetes-risk-prediction01.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+Try the interactive Diabetes Risk Prediction application built with Python, Scikit-learn, and Streamlit.
+
+> **Disclaimer:** This project is for educational purposes only. Predictions are not a medical diagnosis or a clinically validated risk assessment.
+
+
 ## ✨ Features
 
 - 🧠 **Multi-class prediction** — predicts Low, Moderate, or High dataset categories.
